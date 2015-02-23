@@ -31,16 +31,16 @@ body {
     line-height: 150%;
 }
 a:link {
-    color: #2200CC;
+    color: #FFF;
 }
 a:visited {
-    color: #2200CC;
+    color: #FFF;
 }
 a:hover {
-    color: #2200CC;
+    color: #FFF;
 }
 a:active {
-    color: #2200CC;
+    color: #FFF;
 }
 
 .inside {
